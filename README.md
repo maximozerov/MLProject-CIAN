@@ -8,7 +8,6 @@ The purpose of this project is to create a ML project to predict the housing pri
 * perform EDA for the dataset: colelct the main statistics, detect outliers and missing values, etc.
 * perform experiments using linear models and establish a baseline
 * create pipelines for data preprocessing
-* TBD
 
 ## Team
 The project is performed by Maksim Ozerov, mvozerov@edu.hse.ru
